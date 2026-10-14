@@ -1,0 +1,3 @@
+# Third-party packages imported by Ascerez.py
+python-telegram-bot
+aiohttp
